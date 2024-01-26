@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaddiMonclus, Bluetab (an IBM company) employee, Urduliz42 Programming students and MSc Psychology graduate. In a different level, I have a broad experiene supporting individuals and the vulnerable community at different levels.
+- 👋 Hi, I’m @MaddiMonclus, working within Bluetab (an IBM company), Urduliz42 Programming students and MSc Psychology graduate. In a different level, I have a broad experiene supporting individuals and the vulnerable community at different levels.
 - 👀 I’m interested in Big Data, DevOps and Data Engineering. 
 - 🌱 I’m currently working with Bluetab (an IBM company) and studying at 42 Urduliz (C to advance level).
 - 💞️ I’m looking to collaborate on data engineering projects with a focus on improving the community. 
