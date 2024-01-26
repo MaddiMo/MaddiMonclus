@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaddiMonclus, MSc Psychology graduate, Urduliz42 Programming students, and currently completing a Data Science Bootcamp (700 hours). I have a broad experiene supporting individuals and community at different levels.
-- 👀 I’m interested in Data Science, Analysis and Visualisation. 
-- 🌱 I’m currently an Urduliz42 student (C to advance level) and I am currently completing a 700 hours Data Science Bootcamp, where I am improving my Python, R, SQL, Machine Learning, Data Mining and many other skills.
-- 💞️ I’m looking to collaborate on data analysis projects with a focus on improving the community. 
+- 👋 Hi, I’m @MaddiMonclus, Bluetab (an IBM company) employee, Urduliz42 Programming students and MSc Psychology graduate. In a different level, I have a broad experiene supporting individuals and the vulnerable community at different levels.
+- 👀 I’m interested in Big Data, DevOps and Data Engineering. 
+- 🌱 I’m currently working with Bluetab (an IBM company) and studying at 42 Urduliz (C to advance level).
+- 💞️ I’m looking to collaborate on data engineering projects with a focus on improving the community. 
 - 📫 Looking forward to hearing from you! You can reach me in my LinkedIn profile: www.linkedin.com/in/maddi-monclus
 
 <!---
